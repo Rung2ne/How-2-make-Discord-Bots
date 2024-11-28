@@ -1,0 +1,1 @@
+# BOT PERMISSIONS 더 알아보기
