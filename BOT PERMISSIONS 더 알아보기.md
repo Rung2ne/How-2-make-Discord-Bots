@@ -65,7 +65,7 @@ Discord 봇의 권한은 서버 내에서 봇이 수행할 수 있는 작업을 
 | **Mute Members**                | 다른 멤버의 음성을 음소거할 수 있습니다.                                                            |
 | **Deafen Members**              | 다른 멤버의 소리를 듣지 못하게 설정할 수 있습니다.                                                  |
 | **Move Members**                | 음성 채널의 멤버를 다른 채널로 이동시킬 수 있습니다.                                                |
-| **Use Voice Activity**          | 음성 활성화를 기반으로 말할 수 있습니다(푸시 투 토크 불필요).                                       |
+| **Use Voice Activity**          | 음성 활성화를 기반으로 말할 수 있습니다(자동으로 마이크가 켜짐).                                      |
 | **Priority Speaker**            | 우선 발언자로 설정되어 다른 사용자의 볼륨이 감소합니다.                                              |
 | **Request To Speak**            | 음성 채널에서 발언 요청을 할 수 있습니다.                                                           |
 | **Use Embedded Activities**     | 음성 채널에서 내장된 Discord 활동을 사용할 수 있습니다.                                             |
